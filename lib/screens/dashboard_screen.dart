@@ -379,7 +379,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                     const SizedBox(width: 12),
                     Expanded(
                       child: Text(
-                        "Producție optimă între 10:00–15:00 · Randament electrolizer 72%",
+                        "Producție optimă între 10:00–15:00 · Randament electrolizor 72%",
                         style: GoogleFonts.dmSans(
                           color: const Color(0xFFBA7517),
                           fontWeight: FontWeight.w500,
